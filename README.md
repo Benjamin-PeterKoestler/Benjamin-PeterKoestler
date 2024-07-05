@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Benjamin-PeterKoestler
 - I am working for Metro(XXX) since August 2019 in Berlin.
-- I was in the Projects of Sammy, CATE and now I am in SAM.
-- 🌱 I’m currently learning more about GCP prepping for the Certified Cloud Architect Exam from Google. 
+- I was in the Projects of Sammy, CATE, SAM and now I am in M.Online Price.
 - 📫 How to reach me contact me on Teams, mail me benjamin.peter@metro.digital
 
 <!---
